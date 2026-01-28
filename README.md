@@ -8,6 +8,7 @@ This is a Python project created using VS Code.
 1. Open terminal
 2. Run:
    student_management.py
+   student_management.py
 
 ## Author
 Rehan Ali Sayyed
